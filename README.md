@@ -5,6 +5,7 @@ A simple and responsive website built with **HTML5** and **CSS3** as part of my 
 ## 🚀 live Demo
 
 🔗 **View Online:**
-https://mhmdkbyry908-art.github.io/my-first-project/
+
+https://mhmdkbyry908-art.github.io/mechanic-site
 
 ---
