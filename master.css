@@ -157,6 +157,7 @@
                         >ul {
                             opacity: 1;
                             visibility: visible;
+                            z-index: 1;
                         }
                     }
 
@@ -192,6 +193,7 @@
                                 >a {
                                     background-color: var(--yellow);
                                     color: black;
+                                    z-index: 1;
                                 }
                             }
 
