@@ -33,14 +33,14 @@ A modern mechanic website built with **HTML5** and **CSS3**, inspired by the Ava
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="Screenshot/Screenshot-1.png" width="30%" alt="Home">
-  <img src="Screenshot/Screenshot-2.png" width="30%" alt="Services">
-  <img src="Screenshot/Screenshot-3.png" width="30%" alt="About">
+  <img src="screenshot/Screenshot-1.png" width="30%" alt="Home">
+  <img src="screenshot/Screenshot-2.png" width="30%" alt="Services">
+  <img src="screenshot/Screenshot-3.png" width="30%" alt="About">
 </p>
 
 <p align="center">
-  <img src="Screenshot/Screenshot-4.png" width="30%" alt="Team">
-  <img src="Screenshot/Screenshot-5.png" width="30%" alt="Contact">
+  <img src="screenshot/Screenshot-4.png" width="30%" alt="Team">
+  <img src="screenshot/Screenshot-5.png" width="30%" alt="Contact">
 </p>
 ## 📈 Future Improvements
 
